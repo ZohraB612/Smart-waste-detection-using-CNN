@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>paper449.jpg</filename>
+	<path>D:\articole\articole octav\ICOMECYME\baza de date imagini\trashNet\data\paper\paper449.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>126</ymin>
+			<xmax>420</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

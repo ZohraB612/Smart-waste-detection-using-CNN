@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic</folder>
+	<filename>plastic113.jpg</filename>
+	<path>D:\programe\programe_python\CNN\dataset\trashNet\data\plastic\plastic113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>510</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

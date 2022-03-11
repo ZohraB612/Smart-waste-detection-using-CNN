@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trash</folder>
+	<filename>trash115.jpg</filename>
+	<path>D:\programe\programe_python\CNN\dataset\trashNet\data\trash\trash115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>21</ymin>
+			<xmax>420</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

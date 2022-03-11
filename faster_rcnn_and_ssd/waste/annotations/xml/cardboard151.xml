@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cardboard</folder>
+	<filename>cardboard151.jpg</filename>
+	<path>D:\Octav\trashNet\data\cardboard\cardboard151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>117</ymin>
+			<xmax>297</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

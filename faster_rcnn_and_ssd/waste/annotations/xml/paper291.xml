@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>paper291.jpg</filename>
+	<path>D:\articole\articole octav\ICOMECYME\baza de date imagini\trashNet\data\paper\paper291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>11</ymin>
+			<xmax>462</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
