@@ -1,0 +1,57 @@
+,,,,,,
+,,,,,,
+,,,,experiment 1,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,experiment 2,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,VGG-16 Correct,VGG-16 Incorrect,,,Resnet-101 Correct,Resnet-101 Incorrect
+EfficientNet-B7 Correct,343,74,,EfficientNet-B7 Correct,367,50
+EfficientNet-B7 Incorrect,33,59,,EfficientNet-B7 Incorrect,44,48
+,,,,,,
+,Inception-V3 Correct,Inception-V3 Incorrect,,,Xception Correct,Xception Incorrect
+EfficientNet-B7 Correct,112,305,,EfficientNet-B7 Correct,142,275
+EfficientNet-B7 Incorrect,10,82,,EfficientNet-B7 Incorrect,15,77
+,,,,,,
+,Resnet-50 Correct,Resnet-50 Incorrect,,,VGG-19 Correct,VGG-19 Incorrect
+EfficientNet-B7 Correct,354,63,,EfficientNet-B7 Correct,356,61
+EfficientNet-B7 Incorrect,27,65,,EfficientNet-B7 Incorrect,34,58
+,,,,,,
+,,,,,,
+,,,,,,
+,,base models (imbalanced and no data augmentation),,,,
+,,,,,,
+,,,,,,
+,VGG-16 Correct,VGG-16 Incorrect,,,Resnet-101 Correct,Resnet-101 Incorrect
+EfficientNet-B7 Correct,346,75,,EfficientNet-B7 Correct,365,56
+EfficientNet-B7 Incorrect,29,59,,EfficientNet-B7 Incorrect,36,52
+,,,,,,
+,Inception-V3 Correct,Inception-V3 Incorrect,,,Xception Correct,Xception Incorrect
+EfficientNet-B7 Correct,122,299,,EfficientNet-B7 Correct,138,283
+EfficientNet-B7 Incorrect,16,72,,EfficientNet-B7 Incorrect,12,76
+,,,,,,
+,Resnet-50 Correct,Resnet-50 Incorrect,,,VGG-19 Correct,VGG-19 Incorrect
+EfficientNet-B7 Correct,370,51,,EfficientNet-B7 Correct,374,47
+EfficientNet-B7 Incorrect,31,57,,EfficientNet-B7 Incorrect,31,57
+,,,,,,
+,,,,,,
+,,,,,,
+,,base models (balanced and with data augmentation),,,,
